@@ -4,9 +4,8 @@
 - 🌱 I’m currently learning Backend 
 - 💞️ I’m looking to collaborate on any IT company where I can use my potential to benefit the Company .
 - 📫 You can reach through Email   - ayushkumarsep1998@gmail.com
-- [Instagram](https://www.instagram.com/ayush_17.07/)
-                            Github - @Iamayu17
-                            Insta  -  ayush_17.09
+- [Instagram](https://www.instagram.com/ayush_17.07/), [GitHub](https://github.com/Iamayu17)
+                          
                             
  <img src="https://github-readme-stats.vercel.app/api?username=Iamayu17&&show_icon=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
