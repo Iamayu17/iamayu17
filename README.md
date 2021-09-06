@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Ayush kumar
 - 👀 I’m interested in Web developing 👩🏼‍💻 & Graphic designing 🎨
 - 🌱 I’m currently learning Backend 
-- 💞️ I’m looking to collaborate on any IT company where I can use my potential to benefit the Company .
+- 💞️ I’m looking to collaborate on any IT company where I can use my potential to acheive the goals .
 - 📫 You can reach through Email   - ayushkumarsep1998@gmail.com
 - [Instagram](https://www.instagram.com/ayush_17.07/), [GitHub](https://github.com/Iamayu17)
                           
