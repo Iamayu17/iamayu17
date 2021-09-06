@@ -6,6 +6,8 @@
 - 📫 You can reach through Email   - ayushkumarsep1998@gmail.com
                             Github - @Iamayu17
                             Insta  -  ayush_17.09
+                            
+ <img src="https://github-readme-stats.vercel.app/api?username=Iamayu17&&show_icon=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
 **Iamayu17/iamayu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
