@@ -1,5 +1,11 @@
-### Hi there 👋
-
+   Hii there 👋
+- 👋 Hi, I’m Ayush kumar
+- 👀 I’m interested in Web developing 👩🏼‍💻 & Graphic designing 🎨
+- 🌱 I’m currently learning Backend 
+- 💞️ I’m looking to collaborate on any IT company where I can use my potential to benefit the Company .
+- 📫 You can reach through Email   - ayushkumarsep1998@gmail.com
+                            Github - @Iamayu17
+                            Insta  -  ayush_17.09
 <!--
 **Iamayu17/iamayu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
