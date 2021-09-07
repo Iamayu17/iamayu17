@@ -43,6 +43,7 @@
    <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamayu17&show_icons=true&locale=en&layout=compact" alt="iamayu17" /></p>
+<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamayu17&" alt="iamayu17" /></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Iamayu17&&show_icon=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></p>
  
